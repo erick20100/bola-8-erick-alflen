@@ -1,5 +1,6 @@
 {
     "name": "bola 8 erick alflen",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "core": "*",
